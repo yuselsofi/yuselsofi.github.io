@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 #qbootstrap-header #navbar li a span {
   position: relative;
   display: block;
-  padding-bottom: 2px;
+  /* padding-bottom: 2px; */
 }
 #qbootstrap-header #navbar li a span:before {
   content: "";
